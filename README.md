@@ -104,8 +104,7 @@ The number of hits can be an indicator of your popularity or the visibility of a
 ---
 In the data plan Stack Overflow , and Ye Jag `Body` is the main content One shows the post , whether it is a question or an answer. `Body` contains the textual content of the post, including formatting , code snippets, and other elements .
 
->For example :<br>
-<br> 
+>For example :<br> 
 >![id](./img/body.png) 
 
 For responses , the `Body` tag similarly contains the body of the response , including any formatting and code snippets .
@@ -116,7 +115,6 @@ It is important to note that the content in `Body` may be used to ensure proper 
 ---
 the Stack Overflow data scheme , and `OwnerUserId` represents the ID of the user who submitted a specific question and answer . This feature is used to link a post to the user who created it .
 >For example :<br>
-<br> 
 >![id](./img/OwnerUserIdv.png) 
 
 
@@ -133,7 +131,6 @@ Information `OwnerUserId` is important for tracking contributions , understandin
 In the data plan Stack Overflow , and Ye Jag `LastEditorUserId` indicates the ID of the user who last edited a specific post ( question or answer ) . This feature is used to associate a post with the user who last edited it .
 
 >For example :<br>
-<br>
 >![id](./img/LastEditorUserId.png) 
 
 
@@ -148,7 +145,6 @@ Information `LastEditorUserId` helps the transparency and responsibility of the 
 the Stack Overflow data plan , and the `LastEditorDisplayName` Indicates the display name of the user who last viewed a specific post ( question or answer ) . This feature is used to associate a post with the display name of the user who made the last changes in it .
 
 >For example :<br>
-<br>
 >![id](./img/LastEditorDisplayName.png) 
 
 with `ID 514` was last viewed by a user with the display name " Jeff Atwood " .
@@ -164,7 +160,6 @@ Information `LastEditorDisplayName` is useful for displaying the username of the
 In the data plan Stack Overflow , and Ye Jag `LastEditDate` indicates the date and time when a particular post ( question or answer ) was last edited . This is a sign for tracing the water seal of the last time of his reign . A post is used .
 
 >For example :<br>
-<br>
 >![id](./img/LastEditDate.png) 
 
 
@@ -180,7 +175,6 @@ Information `LastEditDate` to understand the content A post and a timeline of th
 the Stack Overflow data plan , and the `LastActivityDate` It shows the date and time of the last activity in a particular post ( question or answer ) . This widget is for tracking the latest post updates , including updates , comments , and reviews . or any other activity that changes the post is used .
 
 >For example :<br>
-<br>
 >![id](./img/LastActivityDate%20.png) 
 
 This shows that the question with `ID 514` was last active on January 9 , 2013 at 05:48 : 04.717 .
@@ -198,7 +192,6 @@ Information `LastActivityDate` is valuable for understanding the interaction of 
 In the data plan Stack Overflow , and Ye Jag `Title` shows the title of a specific post , either It 's a question The answer is yes . This email contains the content of the post title text .
 
 >For example :<br>
-<br>
 >![id](./img/Tags.png) 
 
 This shows that the question with `ID 514` titled " Exit repeatedly from the system in Ruby when making calls HTTP " has
@@ -216,7 +209,6 @@ In the data plan Stack Overflow , and Ye Jag `Tags` shows `tags` related to a sp
 `Tags` are general words There are `tags` that are used to categorize and organize questions and make it easier for users to find content related to specific topics .
 
 >For example :<br>
-<br>
 >![id](./img/Tags.png) 
 
 This shows that the question with `ID 514` is tagged with three `tags` : ruby-on-rails ", " ruby " and " " crash ".
@@ -232,7 +224,7 @@ Labels information for various purposes on the website Stack Overflow includes f
 ---
 In the data plan Stack Overflow , and Ye Jag `AnswerCount` shows the number of answers that a particular question has received . This feature is used to show the number of users who have answered a specific question .
 
-For example :
+For example :<br>
 >![id](./img/AnswerCount.png) 
 
 This shows that the question with `ID 514` has received 5 answers .
@@ -248,7 +240,6 @@ Information `AnswerCount` on your website Stack Overflow to display the number o
 Stack Overflow data scheme , and `CommentCount` The number of comments that a particular post ( or question ) has It shows that the answer has dropped . This feature is used to show the number of users who have added comments to a particular post .
 
 >For example :<br>
-<br>
 >![id](./img/CommentCount%20.png) 
 
 This shows that the question with `ID 514` has not received any comments .
@@ -264,7 +255,6 @@ Information `CommentCount` on your website Stack Overflow is used to display the
 Stack Overflow data plan , and the `FavoriteCount` It shows the number of times a particular question has been marked as a favorite by users . This feature is used to show the number of users who have added a particular question to their list of favorite questions .
 
 >For example :<br>
-<br>
 >![id](./img/FavoriteCount.png) 
 
 
