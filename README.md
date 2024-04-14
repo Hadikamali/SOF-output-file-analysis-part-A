@@ -7,7 +7,7 @@ Now here we discuss all the sections related to `SOF`
 ## Tags
 
 >1 .[`• Id `](#1--id) : An ID for the post.<br>
-2 . [`• PostTypeId `](#2--posttypeid) : ID that shows the type of post . In this case , it is set to "2" which corresponds to a response .<br>
+2 . [`• PostTypeId `](#2--posttypeid) : ID that shows the type of post . In this case , it is set to "2" which corresponds to a response.<br>
 3 . [`• ParentId `](#3--parentid): The ID of the question that this answer answers . In this example , the answer is related to the question that has the ID value " 36 ".<br>
 4 . [`• AcceptedAnswerId`](#4--acceptedanswerid) : ID of the accepted answer for this question . In this example , the rejected response has the ID value "519 ".<br>
 5 . [`• CreationDate `](#5--creationdate): The date and time the post was created .<br>
