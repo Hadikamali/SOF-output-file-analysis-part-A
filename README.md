@@ -31,8 +31,7 @@ Now here we discuss all the sections related to `SOF`
 ---- 
 An `ID` for the post.<br>
 
->For example :<br>
-<br>
+>For example :
 >![id](./img/ID.png)
 
 ### 2- `PostTypeId` 
