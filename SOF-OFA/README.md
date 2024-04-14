@@ -4,4 +4,4 @@ Here, we have used a heatmap to visualize the correlation between relevant value
 
 While this method is not precise for calculating the correlation, it does provide an interesting perspective to some extent.
 
-<img src="heatmap.png" width="500" height="500"/>
+<div style="text-align:center"><img src="heatmap.png" width="500" height="500"/>
