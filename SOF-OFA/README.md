@@ -6,4 +6,4 @@ While this method is not precise for calculating the correlation, it does provid
 
 
 >![id](./heatmap.png)
-![drawing](heatmap.png)
+<img src="drawing.jpg" alt="drawing" width="200"/>
