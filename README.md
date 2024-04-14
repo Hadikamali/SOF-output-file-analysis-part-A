@@ -92,7 +92,6 @@ It is important to note that the system is subjective and can differ based on us
 Property `ViewCount` In the ninth field of Stack Overflow, it shows the number of hits that a question has received . `ViewCount` The measurement is the number of times users have accessed the question page .
 
 >For example :<br>
-<br> 
 >![id](./img/ViewCount.png) 
 
 This shows that the question with `ID 514` has `ViewCount` is 1309 , which means that the question has been viewed 1309 times .
