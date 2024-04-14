@@ -5,4 +5,5 @@ Here, we have used a heatmap to visualize the correlation between relevant value
 While this method is not precise for calculating the correlation, it does provide an interesting perspective to some extent.
 
 
->![id](./heatmap.png)img[alt=drawing] { width: 200px; }
+>![id](./heatmap.png)
+![drawing](heatmap.png)
