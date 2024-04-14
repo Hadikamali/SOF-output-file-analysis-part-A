@@ -26,9 +26,9 @@ Now here we discuss all the sections related to `SOF`
 18 . [`• FavoriteCount`](#18--favoritecount) : The number of times the question has been marked as a favorite <br><br>
 
 # Description of Tags
----- 
-### 1- `id` 
 
+### 1- `id` 
+---- 
 An `ID` for the post.<br>
 
 >For example :
