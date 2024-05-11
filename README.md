@@ -51,26 +51,26 @@ Stack Overflow 's data schema , the spec `PostTypeId` It shows the post type . H
 ### 3- `ParentId` 
 ---
 The ID of the question that this answer answers . In this example , the answer is related to the question that has the ID `value 36`.
-
+>For example :<br>
 >![id](./img/ParentId.png) 
 
 ### 4- `AcceptedAnswerId`
 ---
 This shows that the question with ``ID 514`` has a rejected answer to the answer with ID 519 .
 on your website Stack Overflow , the person who raised a question has the option to mark one of the answers to his question as " rejected " . This is usually the answer that the questioner finds more useful Yes is the answer that has solved his problem in the best way . `AcceptedAnswerId` in the question record is set on the ID of the accepted answer .
-
+>For example :<br>
 >![id](./img/AcceptedAnswerId.png) 
 
 ### 5- `CreationDate`
 ---
 These show the activity time of a post - `CreationDate` the time it was first asked / answered , and LastActivityDate It records the time when the last activity was performed .
-
+>For example :<br>
 >![id](./img/CreationDate.png) 
 
 ### 6- `Score`
 ---
 And the `Score` mark in Stack Overflow shows the net sum of positive and negative votes that a post ( question or answer ) has received . A community is basically a measure of a post 's popularity or perceived quality in the Stack Overflow community .
-
+>For example :<br>
 >![id](./img/Score.png) 
 
 
